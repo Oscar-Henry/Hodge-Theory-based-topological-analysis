@@ -7,3 +7,6 @@ This repository aim to propose an algorithm that:
 - Compute the harmonic and curl part of the Hodge decomposition by substracting the gradient part of the Hodge decomposition to the euclidian cochain
 
 - Show illustration and representation of this processus in a notebook.
+
+# RIPS 4PYI
+![]([http://i.imgur.com/OUkLi.gif](https://github.com/Oscar-Henry/Hodge-Theory-based-topological-analysis/blob/main/RESULTS/Rips__4pyi_8.gif))
